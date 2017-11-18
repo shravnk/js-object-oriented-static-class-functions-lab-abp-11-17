@@ -6,4 +6,4 @@ class Question {
 }
 }
 
-user._All = []
+Question._All = []
