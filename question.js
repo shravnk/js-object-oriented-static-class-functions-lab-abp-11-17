@@ -5,3 +5,5 @@ class Question {
    return this._All;
 }
 }
+
+user._All = []
